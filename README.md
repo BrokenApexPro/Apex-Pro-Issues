@@ -1,5 +1,11 @@
 <img width="1500" height="500" alt="Apex Pro Issues" src="https://github.com/user-attachments/assets/f326cbbb-2fc7-4c9f-a00b-12ce47e67871" />
 
+# Table of Contents
+- [Spamming Keys Issue](https://github.com/BrokenApexPro/Apex-Pro-Issues#spamming-keys-issuev)
+- [Key doesn't repeat when being held down Issue](https://github.com/BrokenApexPro/Apex-Pro-Issues#key-doesnt-repeat-when-being-held-down)
+- [Mismatched LED's Issue](https://github.com/BrokenApexPro/Apex-Pro-Issues/edit/main/README.md#mismatched-leds)
+- [Keycaps breaking Issue](https://github.com/BrokenApexPro/Apex-Pro-Issues/edit/main/README.md#keycaps-breaking)
+
 # Spamming Keys Issue
 https://github.com/user-attachments/assets/727d80d8-d2fc-4460-bf9c-b1b83d9104d0
 
@@ -94,6 +100,8 @@ Many user report specific keys not responding or repeating when being held down.
 15. https://www.reddit.com/r/steelseries/comments/1h0xq9a/apex_pro_mini_s_key_stops_working_when_pressed_to/
 16. https://www.reddit.com/r/pchelp/comments/1e8gsno/my_e_key_on_my_apex_pro_mini_randomly_stopped/
 17. https://www.reddit.com/r/steelseries/comments/18qp1kf/apex_pro_mini_shift_key_not_working/
+18. https://www.reddit.com/r/steelseries/comments/1oyf35y/s_d_key_becomes_unresponsive_when_being_held_down/
+19. https://www.reddit.com/r/steelseries/comments/1gpaw6i/weird_issue_with_w_key_when_switch_is_bottomed/
 
 **Tiktok Videos**
 1. https://www.tiktok.com/@slimisass/video/7451377800675724562
@@ -102,8 +110,59 @@ Many user report specific keys not responding or repeating when being held down.
 4. https://www.tiktok.com/@slimisass/video/7451809190961515784
 5. https://www.tiktok.com/@mxnnt/video/7303623279854587142
 
+**Youtube Videos**
+1. https://www.youtube.com/shorts/qq_OHra27aI
 
+**Personal Experience**
+1. https://www.reddit.com/r/steelseries/comments/1oyf35y/s_d_key_becomes_unresponsive_when_being_held_down/
+2. https://www.reddit.com/r/GamersNexus/comments/1ozxopj/dont_buy_the_steelseries_apex_pro/
 
+# Mismatched LED's
+![image](https://github.com/user-attachments/assets/43f4334f-feda-4cdb-8384-69ae6b60d5a0)
 
+Many user report certain keys being de-synced, mismatched or the wrong color.
 
+# Issue #3 Sources
+**Reddit Post**
+1. https://www.reddit.com/r/steelseries/comments/xzpdcq/how_can_i_fix_one_key_not_illuminating_correctly/
+2. https://www.reddit.com/r/steelseries/comments/qbmfbb/apex_pro_key_color_discoloration_issue_some_keys/
+3. https://www.reddit.com/r/steelseries/comments/1oxwukh/keyboard_leds_keep_on_breaking/
+4. https://www.reddit.com/r/steelseries/comments/1oyqwjo/anyone_know_why_some_of_my_keys_are_disobedient/
+5. https://www.reddit.com/r/steelseries/comments/156pv4j/apex_pro_tkl_rgb_issues/
+6. https://www.reddit.com/r/steelseries/comments/q5b0xq/the_n_key_rgb_light_has_off_colors_on_my_apex_7/
+7. https://www.reddit.com/r/steelseries/comments/1efs35a/apex_pro_mini_leds_not_working_properly/
+8. https://www.reddit.com/r/steelseries/comments/15svsd7/how_serious_is_the_steelseries_apex_series_dead/
+9. https://www.reddit.com/r/steelseries/comments/n8tkb2/warning_about_the_apex_pro_blue_channels_failing/
+10. https://www.reddit.com/r/steelseries/comments/1m2idlz/the_y_key_lighting_on_my_apex_pro_tkl_is/
+11. https://www.reddit.com/r/steelseries/comments/1f2e3zk/apex_pro_lights_not_working_properly/
+12. https://www.reddit.com/r/steelseries/comments/pwv58i/apex_keyboard_blue_leds_failing_keyboard_not_even/
+13. https://www.reddit.com/r/steelseries/comments/y3qbnd/apex_pro_tlk_has_certain_keys_with_different/
+14. https://www.reddit.com/r/steelseries/comments/hdqeyu/my_c_key_on_my_apex_5_displays_the_wrong_colour/
+15. https://www.reddit.com/r/steelseries/comments/1f1zbj4/apex_pro_tkl_rgb_issue/
+16. https://www.reddit.com/r/steelseries/comments/1hfm7t6/one_of_my_keys_not_synced_with_my_rgb_brandnew/
+17. https://www.reddit.com/r/steelseries/comments/ouwmoh/apex_pro_y_key_yellowish_than_normal/
+
+**Youtube Videos**
+1. https://www.youtube.com/watch?v=fAurkS0hv4Y
+2. https://www.youtube.com/watch?v=2N7qJKUecRc
+3. https://www.youtube.com/shorts/5bCtmyqz3nQ
+
+**Personal Experience**
+1. https://www.reddit.com/r/steelseries/comments/1oxwukh/comment/np4xrn0/?context=3
+
+# Keycaps Breaking
+![apex-pro-tkl-2023-keycaps-breaking-v0-o6dlvkrwhb6f1](https://github.com/user-attachments/assets/63c3abec-1b36-434d-b53d-203ba140fcfd)
+
+This issue seems to possibly be both user error and related to how cheaply or how durable the keycaps are. This issue isn't reported much at all, likely due to the fact that it's most likely 99% of the time user error.
+
+# Issue #4 Sources
+**Reddit Post**
+1. https://www.reddit.com/r/steelseries/comments/1l8vv42/apex_pro_tkl_2023_keycaps_breaking/
+2. https://www.reddit.com/r/steelseries/comments/1hxjrwv/my_apex_pro_mini_key_cup_broke_after_not_even_2/
+
+**Tiktok Videos**
+1. https://www.tiktok.com/@wyd.raider/video/7505515344295955742
+
+**Personal Experience**
+1. https://imgur.com/a/yLC7Smj
 
