@@ -39,11 +39,12 @@ The Spamming Keys or Ghost Keys issue seems to have first appeared in Apex Pro M
 30. https://www.reddit.com/r/steelseries/comments/1bqt9b9/problem_with_apex_pro_mini_omnipoint/
 
 **Tiktok Videos**
-1. https://www.tiktok.com/@arcus.bs/video/7430810881241500961?q=Apex%20pro%20spamming%20keys&t=1763542081095
-2. https://www.tiktok.com/@jnxybtw/video/7453864728406838570?q=Apex%20pro%20spamming%20keys&t=1763542081095
-3. https://www.tiktok.com/@trickwtw/video/7510764929025101086?q=Apex%20pro%20spamming%20keys&t=1763542081095
-4. https://www.tiktok.com/@rayneoyt/video/7420089293646892331?q=Apex%20pro%20spamming%20keys&t=1763542081095
-5. https://www.tiktok.com/@butters_tech/video/7429418900665814304?q=Apex%20pro%20spamming%20keys&t=1763542081095
+1. https://www.tiktok.com/@arcus.bs/video/7430810881241500961
+2. https://www.tiktok.com/@jnxybtw/video/7453864728406838570
+3. https://www.tiktok.com/@trickwtw/video/7510764929025101086
+4. https://www.tiktok.com/@rayneoyt/video/7420089293646892331
+5. https://www.tiktok.com/@butters_tech/video/7429418900665814304
+6. https://www.tiktok.com/@ilysorrow_/video/7352333543550242091
 
 **Youtube Videos**
 1. https://www.youtube.com/watch?v=wNzHRfsN2a8
@@ -60,7 +61,7 @@ The Spamming Keys or Ghost Keys issue seems to have first appeared in Apex Pro M
 2. https://www.youtube.com/watch?v=J7sQ9XhNoBE
 3. https://www.reddit.com/r/steelseries/comments/1gvsnce/apex_pro_tkl_spamming_switches_solved_i_hope/
 4. https://www.reddit.com/r/steelseries/comments/1bcycmo/solution_to_spamming_apex_pro_minis/
-5. https://www.tiktok.com/@jnxybtw/video/7453956647518489899?q=how%20to%20fix%20apex%20mini%20spamming%20keys&t=1763542566879
+5. https://www.tiktok.com/@jnxybtw/video/7453956647518489899
 
 # Key doesn't repeat when being held down
 
@@ -87,12 +88,19 @@ Many user report specific keys not responding or repeating when being held down.
 9. https://www.reddit.com/r/steelseries/comments/18lpf8m/apex_pro_mini_w_stuttering/
 10. https://www.reddit.com/r/steelseries/comments/1hq7713/w_key_pauses/
 11. https://www.reddit.com/r/steelseries/comments/1m3ga11/w_d_and_left_ctrl_keys_are_acting_weird_all_of_a/
+12. https://www.reddit.com/r/steelseries/comments/1bend0k/key_w_doesnt_work_sometimes_does_anyone_knows_how/
+13. https://www.reddit.com/r/steelseries/comments/1jllwh9/apex_pro_mini_w_key_stops_working_when_pressed/
+14. https://www.reddit.com/r/steelseries/comments/1ibyu56/apex_pro_mini_key_stops_woring_when_you_press_it/
+15. https://www.reddit.com/r/steelseries/comments/1h0xq9a/apex_pro_mini_s_key_stops_working_when_pressed_to/
+16. https://www.reddit.com/r/pchelp/comments/1e8gsno/my_e_key_on_my_apex_pro_mini_randomly_stopped/
+17. https://www.reddit.com/r/steelseries/comments/18qp1kf/apex_pro_mini_shift_key_not_working/
 
 **Tiktok Videos**
 1. https://www.tiktok.com/@slimisass/video/7451377800675724562
 2. https://www.tiktok.com/@zachgrinds/video/7473244229603642670
 3. https://www.tiktok.com/@ltzhxwk/video/7441376332417846574
 4. https://www.tiktok.com/@slimisass/video/7451809190961515784
+5. https://www.tiktok.com/@mxnnt/video/7303623279854587142
 
 
 
