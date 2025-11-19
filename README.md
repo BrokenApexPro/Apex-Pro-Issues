@@ -76,7 +76,7 @@ https://github.com/user-attachments/assets/577b62d3-c109-4a15-9081-be88a4278188
 Many user report specific keys not responding or repeating when being held down. It apppears when the key is fully bottomed out, it no longer responds meaning if ASWD happened to get this issue a user likely couldn't move or straf. There also appears to be no actual fixes, like recalibration, uninstalling GG, etc only physical or manual fixes. 
 
 # Manual Fixes
-1. Buy [Keyboard O-ings](https://a.co/d/bdJeDSb) and put 2-3 of them on the keycap stem in order to physically prevent the switch from bottoming out.
+1. Buy [Keyboard O-Rings](https://a.co/d/bdJeDSb) and put 2-3 of them on the keycap stem in order to physically prevent the switch from bottoming out.
 2. Get a small peice of paper and roll it around the keycap stem, similar to the effects of the O-Ring.
 
 <img width="1700" height="1440" alt="New Project (3)" src="https://github.com/user-attachments/assets/2a0b07a1-5f72-4e84-a4ae-8a62bd657b84" />
